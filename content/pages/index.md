@@ -371,7 +371,7 @@ sections:
     text: |
       follow us to get updates on new arrivals
     actions:
-      - label: Get started
+      - label: Contact
         url: /
         icon: arrowRight
         iconPosition: right
