@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Shop for Your Favourite Gadgets
+      text: Shop Your Favourite Gadgets
       color: text-dark
       type: TitleBlock
     subtitle: Best Dealer on Electronics
