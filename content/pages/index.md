@@ -287,7 +287,7 @@ sections:
     subtitle: authentic products at a good price
     text: >
       for more info on shopping and payments, contact us on WhatsApp by clicking
-      this [link](www.https//wa.me/+25475886709)
+      this [link](www.https//wa.me/+254758861709)
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
