@@ -385,7 +385,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/ps.jpg
+      url: /images/microsoft.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
