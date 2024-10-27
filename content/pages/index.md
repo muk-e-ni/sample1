@@ -12,7 +12,7 @@ sections:
       Enjoy premium shopping experience from the comfort of your home. Explore
       our portfolio of items and call us to make your order. 
     actions:
-      - label: Get started
+      - label: Explore
         altText: ''
         url: /
         showIcon: false
