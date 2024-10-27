@@ -602,7 +602,7 @@ sections:
     items:
       - title: Feature Item One
         tagline: This is the tagline
-        subtitle: item subtitle
+        subtitle: item subtitle/ price
         text: |+
           description
 
