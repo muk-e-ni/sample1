@@ -178,8 +178,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/playstation-wordmark.svg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
