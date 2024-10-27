@@ -603,8 +603,9 @@ sections:
       - title: Feature Item One
         tagline: This is the tagline
         subtitle: item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          description
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
