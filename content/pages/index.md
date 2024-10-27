@@ -368,9 +368,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Find us across all social media platforms
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      follow us to get updates on new arrivals
     actions:
       - label: Get started
         url: /
