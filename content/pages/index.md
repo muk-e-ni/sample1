@@ -372,7 +372,7 @@ sections:
       follow us to get updates on new arrivals
     actions:
       - label: Contact
-        url: /
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary
