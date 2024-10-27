@@ -216,7 +216,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: Fast delivery on items
         text: |+
           details
 
