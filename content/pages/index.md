@@ -238,7 +238,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: SHOP ITEMS
         altText: ''
         url: /
         showIcon: false
