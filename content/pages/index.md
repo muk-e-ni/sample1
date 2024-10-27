@@ -167,7 +167,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Our Brands
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
