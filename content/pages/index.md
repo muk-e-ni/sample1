@@ -172,7 +172,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/playstation-wordmark.svg
+      - url: /images/sony-2.svg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/samsung-8.svg
