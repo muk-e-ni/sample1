@@ -169,7 +169,7 @@ sections:
         textAlign: center
   - subtitle: Our Brands
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/dell-computer.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/sony-2.svg
