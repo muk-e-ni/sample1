@@ -367,7 +367,7 @@ sections:
       text: Our Socials
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Find us across all social media platforms
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
