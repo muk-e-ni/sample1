@@ -50,6 +50,36 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - subtitle: Our Brands
+    images:
+      - url: /images/dell-computer.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/sony-2.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/samsung-8.svg
+        altText: Telus logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+      - url: /images/playstation-wordmark.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/jbl-2.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/xbox-2.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -289,36 +319,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Our Brands
-    images:
-      - url: /images/dell-computer.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/sony-2.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/samsung-8.svg
-        altText: Telus logo
-        type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
-      - url: /images/playstation-wordmark.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/jbl-2.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/xbox-2.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
